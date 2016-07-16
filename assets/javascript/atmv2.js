@@ -81,7 +81,7 @@ var bankOfAmericaCustomers = [{
     checkingAccountBalance: 0
 }
 }]
-	
+
 	function get_balance() {
 		alert('Your current checking balance is: ' + bankOfAmerica.checkingAccountBalance + " and your savings account balance is: " + bankOfAmerica.savingsAccountBalance);
 		atm();
@@ -133,7 +133,7 @@ var bankOfAmericaCustomers = [{
 					alert("TAKE YO MONEY! Please...(deducted from savings).")
 				}
 			}
-			
+
 		}
 	}
 	
