@@ -136,6 +136,7 @@ var bankOfAmericaCustomers = [{
 			
 		}
 	}
+	
 	function error() {
 		alert('Error: accepted numbers are 1 through 4.');
 		atm();
